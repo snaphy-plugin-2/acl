@@ -1,0 +1,7 @@
+{
+  "name": "acl",
+  "description": "Plugin for managing admin panel acl.",
+  "routeExposure": "/aclPlugin",
+  "activate": true,
+  "pluginDependencies": {}
+}

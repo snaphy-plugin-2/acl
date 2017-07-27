@@ -1,0 +1,19 @@
+{
+  "css": {
+    "/aclPlugin/style/acl.css": "aclCss"
+  },
+  "js": {
+    "/aclPlugin/scripts/routes/acl.js": "aclRoute",
+    "/aclPlugin/scripts/controllers/acl.js": "aclController"
+  },
+  "moduleDependencies":{
+
+  },
+  "settings": ["/aclPlugin/admin-panel-setting.js"],
+  "bodystructure": {
+    "asidebarHook": [],
+    "sidebarHook": [],
+    "headerHook": [],
+    "footerHook":[]
+  }
+}
